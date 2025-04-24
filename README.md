@@ -1,0 +1,2 @@
+# UniPredict--A-Machine-Learning-model-for-Admission-and-Field-Prediction-of-top-institues-of-Pakistan
+UNI Predict is a machine learning model designed to predict admissions and program selections based on academic records for 8 top universities in Pakistan. Using Logistic Regression for admissions and Random Forest for program prediction, it achieves 90+% accuracy. UI deployment is in progress, with a public release soon.
